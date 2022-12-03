@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <div>
   <p>- 🔭 I’m currently working on ML-DL</p>
   <p>- 👯 I’m looking to collaborate on realtime ML projects 😃</p>
+  <p>- 🎵 I'm a keen learner of Indian Classical Music</p>
   <p>- 📫 How to reach me :</p>
 <a href="https://www.linkedin.com/in/ketan-inamdar-1b15241ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://www.instagram.com/ketan_inamdar_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />

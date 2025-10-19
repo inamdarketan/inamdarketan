@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
   
 <hr>
-  
+ ![Ketan's GitHub stats](https://raw.githubusercontent.com/username=inamdarketan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
  ![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=inamdarketan&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inamdarketan&langs_count=10&theme=radical)](https://github.com/inamdarketan/github-readme-stats)
 

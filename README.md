@@ -34,10 +34,4 @@ Here are some ideas to get you started:
   
 <hr>
 
-<!-- ![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)  -->
-
- ![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=inamdarketan&show_icons=true&theme=radical)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inamdarketan&langs_count=10&theme=radical)](https://github.com/inamdarketan/github-readme-stats)
-
 

@@ -2,8 +2,6 @@
   <h1>Hi, I'm Ketan Inamdar 👋</h1>
 </div>
 
-![](https://komarev.com/ghpvc/?username=inamdarketan&color=green)
-
 <hr>
 <div></div>
 <div id="header" align="center">
